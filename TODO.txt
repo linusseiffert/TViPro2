@@ -1,0 +1,17 @@
+Aufgabe 1:
+
+a)	Plots prüfen + exportieren
+
+b)	Plots prüfen + exportieren
+
+c)	PT1 Glied (Transfer Fcn) checken, Zeitkonstante?
+	Plots prüfen + exportieren
+
+Aufgabe2:
+
+a)	Prüfen, ob richtig implementiert (Logik, Schwellenwert)?
+	Vor allem Abschaltung ab max./min. Höhe zusammen mit Leistungsbegrenzung
+	Plots prüfen + exportieren
+
+b)	Plots mit StateFlow Chart erstellen
+	
