@@ -1,0 +1,23 @@
+Aufgabe 1:
+
+a)	Plots prüfen + exportieren
+	Fragen beantworten
+
+b)	Plots prüfen + exportieren
+	Fragen beantworten
+
+c)	PT1 Glied (Transfer Fcn) checken, Zeitkonstante?
+	Plots prüfen + exportieren
+	Fragen beantwork
+Aufgabe2:
+
+a)	Prüfen, ob richtig implementiert (Logik, Schwellenwert)?
+	Vor allem Abschaltung ab max./min. Höhe zusammen mit Leistungsbegrenzung
+	Plots prüfen + exportieren
+	Fr	
+
+b)	Plots mit StateFlow Chart erstellen
+
+
+
+	-> Stateflow benutzen, Button Logik erneuern
